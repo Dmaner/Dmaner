@@ -1,6 +1,6 @@
 ### Hi there ✌
 
-Personal profile
+👨‍🎓 Personal profile
 - 🦉 I'm a cs student in HIT
 - 💻 I’m currently working on Http Server
 - 🤔 I’m currently learning Computer Networks
