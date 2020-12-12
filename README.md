@@ -1,16 +1,16 @@
 ### Hi there ✌
 
-👨‍🎓 Personal profile
+👨‍🎓 **Personal profile**
 - 🦉 I'm a cs student in HIT
 - 💻 I’m currently working on Http Server
 - 🤔 I’m currently learning Computer Networks
 - 💬 Ask me about anything related to c/c++ or os
 
-📚 Latest Blog Posts
+📚 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [MIT 6.S081 Labs](https://www.zhihu.com/column/c_1309193829527171072)
-- [Linux 内核学习](https://www.zhihu.com/column/c_1319764204341784576)
-- [Linux 服务器编程](https://zhuanlan.zhihu.com/p/335664246)
+- [Linux kernel study](https://www.zhihu.com/column/c_1319764204341784576)
+- [Linux server programming](https://zhuanlan.zhihu.com/p/335664246)
 <!-- BLOG-POST-LIST:END -->
 
 🐱 Social account
