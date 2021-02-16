@@ -2,9 +2,9 @@
 
 👨‍🎓 **Personal profile**
 - 🦉 I'm a cs student in HIT
-- 💻 I’m currently working on Http Server
-- 🤔 I’m currently learning Computer Networks
-- 💬 Ask me about anything related to c/c++ or os
+- 💻 I’m currently working on Nignx
+- 🤔 I’m currently learning Databases
+- 💬 Ask me about anything related to c/c++/os/database
 
 📚 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
