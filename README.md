@@ -2,7 +2,7 @@
 
 👨‍🎓 **Personal profile**
 - 🦉 I'm a cs student in HIT
-- 💻 I’m currently working on Nignx
+- 💻 I’m currently working on Nginx
 - 🤔 I’m currently learning Databases
 - 💬 Ask me about anything related to c/c++/os/database
 
