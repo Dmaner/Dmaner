@@ -1,4 +1,4 @@
-### Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="50">
 
 👨‍🎓 **Personal profile**
 - 🦉 I'm a cs student in HIT
