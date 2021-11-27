@@ -1,10 +1,9 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="50">
 
 👨‍🎓 **Personal profile**
-- 🦉 I'm a cs student in HIT
-- 💻 I’m currently working on Nginx
-- 🤔 I’m currently learning Databases
-- 💬 Ask me about anything related to c/c++/os/database
+- 🦉 I'm an engineer in Shopee
+- 🤔 I’m currently learning Compiler
+- 💬 Ask me about anything related to c/c++/os/database/compiler
 
 📚 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
