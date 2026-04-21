@@ -1,17 +1,19 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="28">
 
-Engineer focused on **LLM inference**, **CUDA**, and **AI agents**.
+I'm Dman, Ex Engineer of Shopee -> ByteDance, currently focused on **LLM inference**, **CUDA**, and **AI agents**.
 
-#### About Me
+### 📚 Learning Notes & Research
 
-- Shopee -> ByteDance -> Independent Developer
-- Currently focused on LLM inference optimization, CUDA programming, and agent systems
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dmaner&repo=aisys-thoughts&theme=github_dark)](https://github.com/Dmaner/aisys-thoughts)
+
+> Notes and research on CUDA optimization, LLM inference, AI systems, and related engineering topics.
 
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [LLM Inference](https://www.zhihu.com/column/c_2019779404306327315)
 <!-- BLOG-POST-LIST:END -->
+
 
 #### Find Me
 
