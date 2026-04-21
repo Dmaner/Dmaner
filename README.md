@@ -2,22 +2,16 @@
 
 Engineer focused on **LLM inference**, **CUDA**, and **AI agents**.
 
----
-
 #### About Me
 
 - Shopee -> ByteDance -> Independent Developer
 - Currently focused on LLM inference optimization, CUDA programming, and agent systems
-
----
 
 #### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [LLM Inference](https://www.zhihu.com/column/c_2019779404306327315)
 <!-- BLOG-POST-LIST:END -->
-
----
 
 #### Find Me
 
