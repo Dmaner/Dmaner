@@ -3,22 +3,12 @@
 I'm Dman. Previously at Shopee and ByteDance.  
 Now focused on **LLM inference**, **CUDA**, and **AI agents**.
 
----
-
 ### 📚 Learning Notes & Research
 
 [![Repo Card](https://github-readme-stats-dmaner.vercel.app/api/pin/?username=Dmaner&repo=aisys-thoughts&theme=github_dark&show_owner=true)](https://github.com/Dmaner/aisys-thoughts)
 
 
 > Notes on CUDA optimization, LLM inference, AI systems, and performance engineering.
-
----
-
-#### Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [LLM Inference](https://www.zhihu.com/column/c_2019779404306327315)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
