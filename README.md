@@ -25,5 +25,3 @@ Now focused on **LLM inference**, **CUDA**, and **AI agents**.
 #### Find Me
 
 [![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=flat&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/lemonman-98)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/DMAN850131)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546776267131165)
