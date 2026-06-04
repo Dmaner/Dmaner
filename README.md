@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="28">
 
 I'm Dman. Previously at Shopee and ByteDance.  
-Now focused on **LLM inference**, **CUDA**, and **AI agents**.
+Now focused on **LLM inference** and **AI agents**.
 
 ### 📚 Learning Notes & Research
 
