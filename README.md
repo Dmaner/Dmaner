@@ -8,7 +8,7 @@ Now focused on **LLM inference** and **AI agents**.
 [![Repo Card](https://github-readme-stats-dmaner.vercel.app/api/pin/?username=Dmaner&repo=aisys-thoughts&theme=github_dark&show_owner=true)](https://github.com/Dmaner/aisys-thoughts)
 
 
-> Notes on CUDA optimization, LLM inference, AI systems, and performance engineering.
+> Notes on Agent, CUDA optimization, LLM inference. Get more in https://lemon-tom.top/
 
 ---
 
